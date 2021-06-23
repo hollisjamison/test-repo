@@ -1,5 +1,5 @@
 const niceFunction = () => {
-  return 'This function works'
+  let a = 'This function works'
 }
 
 console.log(niceFunction())
